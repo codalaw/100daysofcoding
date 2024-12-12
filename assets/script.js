@@ -1,16 +1,16 @@
 // Sample project data array with image paths
 const projects = [
     {
-        name: "Project 1",
-        description: "This is a brief description of Project 1. It showcases my ability to work with JavaScript and HTML.",
-        image: "assets/photos/alphabet.jpg", // Path to the image
-        github: "https://github.com/your-username/project1",
+        name: "Winter Wonderland",
+        description: "Small program highlighting the use of Css and JS to animate flashing lights, and falling snow.",
+        image: "assets/photos/winterWonderland.jpg", // Path to the image
+        github: "https://codalaw.github.io/winterWonderland/",
     },
     {
         name: "Project 2",
         description: "This is a brief description of Project 2. It includes CSS styling and interactive elements.",
         image: "change me", // Path to the image
-        github: "https://github.com/your-username/project2",
+        github: "CHANGEME",
     },
     // Add more projects here
 ];
