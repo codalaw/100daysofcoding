@@ -12,6 +12,12 @@ const projects = [
         image: "assets/photos/cooieClicker.jpg", // Path to the image
         github: "https://codalaw.github.io/cookieClicker/",
     },
+    {
+        name: "Background Changer",
+        description: "Simple program that will change the div and body elements background colors when a button is pressed. There is logic used so no two colors will match. ChatGPT helped with some JS on this project.",
+        image: "assets/photos/backgroundChanger.png", // Path to the image
+        github: "https://codalaw.github.io/backgroundChanger/",
+    },
     // Add more projects here
 ];
 
