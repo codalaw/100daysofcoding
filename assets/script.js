@@ -7,10 +7,10 @@ const projects = [
         github: "https://codalaw.github.io/winterWonderland/",
     },
     {
-        name: "Project 2",
-        description: "This is a brief description of Project 2. It includes CSS styling and interactive elements.",
-        image: "change me", // Path to the image
-        github: "CHANGEME",
+        name: "Cookie Clicker",
+        description: "Classic game of cookie clicker highlighting the use of onClick, this was my first project that ChatGPT was not copy/pasted for JS. Took my time and learned how the code worked via resources on Google.",
+        image: "assets/photos/cooieClicker.jpg", // Path to the image
+        github: "https://codalaw.github.io/cookieClicker/",
     },
     // Add more projects here
 ];
