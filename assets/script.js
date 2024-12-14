@@ -18,6 +18,12 @@ const projects = [
         image: "assets/photos/backgroundChanger.png", // Path to the image
         github: "https://codalaw.github.io/backgroundChanger/",
     },
+    {
+        name: "Score Board",
+        description: "This was a solo project that I was asked to do as part of my Scrimba Front End Career course. They gave me the design, and I had to build it from scratch and code the JS solo. Using knowledge from my 'coookie clicker ' game, i was successful",
+        image: "assets/photos/scoreBoard.jpg", // Path to the image
+        github: "https://codalaw.github.io/scoreBoard/",
+    },
     // Add more projects here
 ];
 
