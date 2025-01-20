@@ -24,7 +24,13 @@ const projects = [
         image: "assets/photos/scoreBoard.jpg", // Path to the image
         github: "https://codalaw.github.io/scoreBoard/",
     },
-    // Add more projects here
+    {
+        name: "Day 1",
+        description: "Create a multi-section web page with semantic tags (header, footer, nav, section, article), including a table, image gallery, and forms.",
+        image: "assets/photos/day1.jpg", // Path to the image
+        github: "https://codalaw.github.io/day1/",
+    },
+     // Add more projects here
 ];
 
 const projectContainer = document.getElementById("project-container");
